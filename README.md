@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dewan Monjur Elahi Choyon.</h1>
-<h3 align="center">A passionate programmer and data science enthusiast.</h3>
+<h3 align="center">A coding enthusiast.</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=choyon001&label=Profile%20views&color=0e75b6&style=flat" alt="choyon001" /> </p>
 
-- 🌱 I’m currently learning **python flask,Sql,data science.**
+- 🌱 I’m currently learning **python flask,Sql,django.**
 
-- 💬 Ask me about **python,web scrapping,sql,data science.**
+- 💬 Ask me about **python,web scrapping,sql,django.**
 
 - ⚡ Fun fact **I think I'm funny.**
 
