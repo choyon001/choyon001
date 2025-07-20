@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJtZ2V6b2V1eG5tN3F0dWZqY2V5Y2N6dGJ0bG5xYzR6eGJ2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
   Hey, I'm Dewan Monjur Elahi Choyon!
-  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="30px">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWlqY2V1d3Y4Y2JmY3F2dGZqZzR6dW5oNnJtYzR6eGJ2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HwBlFQZFcAoUcPHZdX/giphy.gif" width="30px">
 </h1>
 
 <h3 align="center">⚡ Full-Stack Developer | Python & JavaScript Specialist | Problem Solver ⚡</h3>
@@ -9,11 +9,13 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=choyon001&label=Profile%20views&color=0e75b6&style=flat" alt="choyon001" />
   <a href="https://github.com/choyon001?tab=followers">
-    <img src="https://img.shields.io/github/followers/choyon001?label=Follow&style=social" alt="GitHub Followers">
+    <img src="https://img.shields.io/github/followers/choyon001?label=Follow&style=social&color=blue" alt="GitHub Followers">
   </a>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<div align="center">
+  <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/coding.gif">
+</div>
 
 ## 🔥 About Me
 
@@ -32,7 +34,7 @@
   Python (Flask/Django) • JavaScript • MERN Stack • Competitive Programming
 
 - ⚡ **Fun Fact:**  
-  I can solve a Rubik's Cube in under 2 minutes! (Debugging takes longer sometimes 😅)
+  My code has a great sense of humor. It throws errors in the most dramatic way possible
 
 ## 🛠️ Tech Stack
 
@@ -64,15 +66,15 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=choyon001&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=choyon001&layout=compact&langs_count=8&theme=radical"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=choyon001&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=choyon001&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=choyon001&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=choyon001&theme=dark&hide_border=true"/>
 </div>
 
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dewan-monjur-55356a199/" target="_blank">
+  <a href="https://www.linkedin.com/in/dewan-monjur/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://kaggle.com/choyon001" target="_blank">
