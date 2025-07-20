@@ -19,11 +19,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
- <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-  <div style="background-color: white; display: inline-block; padding: 5px; border-radius: 6px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
-  </div>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-color-tal-revivo.png" alt="django" width="40" height="40"/>
 </a>
+
 
 
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
