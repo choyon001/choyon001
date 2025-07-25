@@ -66,7 +66,7 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=choyon001&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=choyon001&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=choyon001&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=choyon001&theme=dark&hide_border=true"/>
 </div>
 
 ## 🤝 Connect With Me
