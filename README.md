@@ -33,8 +33,6 @@
 - 💬 **Ask Me About:**  
   Python (Flask/Django) • JavaScript • MERN Stack • Competitive Programming
 
-- ⚡ **Fun Fact:**  
-  My code has a great sense of humor. It throws errors in the most dramatic way possible
 
 ## 🛠️ Tech Stack
 
