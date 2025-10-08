@@ -28,16 +28,15 @@
 - 🌱 **Currently Mastering:**  
   ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
   ![Temenos](https://img.shields.io/badge/-Temenos-002D72?logo=temenos&logoColor=white&style=flat)
-  ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=flat)
   ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 
 - 💡 **Passionate About:**  
-  Crafting reliable financial systems • Full-stack development • Software optimization • Automation and scalability
+  Crafting reliable financial systems • Full-stack development • Software optimization • 
 
 - 💬 **Ask Me About:**  
-  Java • Temenos (T24) • Spring Boot • React • MERN Stack • Backend Architecture • API Development
+  Java • Temenos (T24) • React • MERN Stack • Backend Architecture • API Development
 
 ---
 
@@ -46,7 +45,6 @@
 ### 🔹 Core Technologies
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Temenos](https://img.shields.io/badge/Temenos-%23002D72.svg?style=for-the-badge&logo=temenos&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 
 ### 🔹 Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
